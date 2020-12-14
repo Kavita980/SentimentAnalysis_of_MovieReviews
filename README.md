@@ -1,4 +1,4 @@
-# Sentiment-Analysis-IMDB
+# SentimentAnalysis_of_MovieReviews
 
 In this problem I had to work on IMDB dataset to create an NLP model for sentiment analysis. IMDB dataset contains 50000 movie reviews and their sentiment. The dataset is divided in 50-50% train & test dataset.
 
@@ -10,4 +10,4 @@ After that we use word_index method as shown above to obtain the word index of a
 
 Here is the model summary of the above model. According to my research the hybrid model like the one shown above performs much better compared to the model which only contains one type like only LSTM or only GRU. The combination of Convolution layer, GRU layer and fully connected layer was the best.
 
-Above you will find the code. Enjy :)
+Above you will find the code.
